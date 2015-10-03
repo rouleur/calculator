@@ -1,6 +1,6 @@
 # calculator
 
-An exercise on the ideas presented in [this video](https://www.youtube.com/watch?v=4F72VULWFvc). 
+An exercise on the ideas presented in [this video](https://www.youtube.com/watch?v=4F72VULWFvc) (except unit tests :)). 
 Mainly focuses on [Misko Hevery](http://misko.hevery.com/about/)'s mentioned interview question: 
 
 Model this: 1 + 2 * 3
